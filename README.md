@@ -1,4 +1,4 @@
-# The-Farid-Cosmological-Constant-F-Master-Regulator-of-Entropy-and-Inevitability-of-Coherent-Life
+# The-Farid-Cosmological-Constant-(ΛF)-Master-Regulator-of-Entropy-and-Inevitability-of-Coherent-Life
 \documentclass[11pt,a4paper]{article}
 
 \usepackage[margin=2.5cm]{geometry}
