@@ -1,0 +1,1 @@
+# The-Farid-Cosmological-Constant-F-Master-Regulator-of-Entropy-and-Inevitability-of-Coherent-Life
